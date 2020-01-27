@@ -12,7 +12,7 @@ Rule Set:
 
 ![Alt text](https://github.com/mmgrant73/langtonsant/blob/master/langtonsant.png?raw=true "Image-RevealBox")
 
-[For more infomation:](https://en.wikipedia.org/wiki/Langton%27s_ant) 
+[For more infomation:](https://en.wikipedia.org/wiki/Langton%27s_ant) https://github.com/mmgrant73/GameofLIfe
 
 ### Programming:
 This was written using the Processing Programming Language in Python Mode.  Processing is an open source framework that lets a user write programs 
@@ -40,4 +40,4 @@ You can set the gridsize if you choose.  At the top of the program there are two
 default to 20 X 30.  You can also set the screen size which is defined by screenx and screeny variables at the top of the program.  By default the screen
 is set to 600 X 400.  You can also adjust the framerate, which will affect the speed of the program.  By default it is set to 4fps
 
-Note: If you like this type of program, I have a project Conways' Game of Life which is another cellular automation program.
+Note: If you like this type of program, I have a project Conways' Game of Life which is another cellular automation program. [For more infomation:](https://github.com/mmgrant73/GameofLIfe) 
