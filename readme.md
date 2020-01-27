@@ -10,7 +10,7 @@ Rule Set:
 1. At a white square, turn 90° right, flip the color of the square, move forward one unit
 2. At a red square, turn 90° left, flip the color of the square, move forward one unit
 
-![Alt text](https://github.com/mmgrant73/langtonsant/blob/master/life.png?raw=true "Image-RevealBox")
+![Alt text](https://github.com/mmgrant73/langtonsant/blob/master/langtonsant.png?raw=true "Image-RevealBox")
 
 [For more infomation:](https://en.wikipedia.org/wiki/Langton%27s_ant) 
 
